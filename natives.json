@@ -61445,7 +61445,7 @@
 					"name": "scenarioType"
 				},
 				{
-					"type": "Hash",
+					"type": "const char*",
 					"name": "p4"
 				},
 				{
