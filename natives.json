@@ -5314,7 +5314,7 @@
 					"name": "context"
 				},
 				{
-					"type": "BOOL",
+					"type": "int",
 					"name": "block"
 				}
 			],
