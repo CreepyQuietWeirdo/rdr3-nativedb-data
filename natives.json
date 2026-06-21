@@ -98725,6 +98725,14 @@
 					"name": "ped"
 				},
 				{
+					"type": "int",
+					"name": "p1"
+				},
+				{
+					"type": "Vehicle",
+					"name": "vehicle"
+				},
+				{
 					"type": "float",
 					"name": "x"
 				},
@@ -98753,15 +98761,7 @@
 					"name": "timeout"
 				},
 				{
-					"type": "Any",
-					"name": "p8"
-				},
-				{
-					"type": "Any",
-					"name": "p9"
-				},
-				{
-					"type": "Any",
+					"type": "BOOL",
 					"name": "p10"
 				},
 				{
@@ -98769,27 +98769,27 @@
 					"name": "p11"
 				},
 				{
-					"type": "Any",
+					"type": "BOOL",
 					"name": "p12"
 				},
 				{
-					"type": "Any",
+					"type": "BOOL",
 					"name": "p13"
 				},
 				{
-					"type": "Any",
-					"name": "p14"
+					"type": "ScrHandle",
+					"name": "coverpoint"
 				},
 				{
-					"type": "Any",
+					"type": "BOOL",
 					"name": "p15"
 				},
 				{
-					"type": "Any",
+					"type": "BOOL",
 					"name": "p16"
 				},
 				{
-					"type": "Any",
+					"type": "BOOL",
 					"name": "p17"
 				}
 			],
