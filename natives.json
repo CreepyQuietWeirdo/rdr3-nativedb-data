@@ -60887,7 +60887,7 @@
 					"name": "state"
 				},
 				{
-					"type": "int",
+					"type": "const char*",
 					"name": "p2"
 				},
 				{
