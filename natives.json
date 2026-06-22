@@ -13929,7 +13929,7 @@
 					"name": "p0"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "bool",
 			"build": "1207"
 		},
 		"0xA8EDE09FE07BD77F": {
