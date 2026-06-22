@@ -67123,7 +67123,7 @@
 					"name": "ped"
 				},
 				{
-					"type": "BOOL",
+					"type": "int",
 					"name": "p1"
 				}
 			],
