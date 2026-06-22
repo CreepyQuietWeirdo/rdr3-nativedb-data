@@ -100443,7 +100443,7 @@
 					"name": "distance"
 				},
 				{
-					"type": "BOOL",
+					"type": "int",
 					"name": "p5"
 				},
 				{
