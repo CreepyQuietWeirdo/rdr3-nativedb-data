@@ -73012,11 +73012,11 @@
 					"name": "p7"
 				},
 				{
-					"type": "BOOL",
+					"type": "float",
 					"name": "p8"
 				},
 				{
-					"type": "BOOL",
+					"type": "float",
 					"name": "p9"
 				}
 			],
