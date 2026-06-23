@@ -120959,7 +120959,7 @@
 					"name": "p1"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "int",
 			"build": "1207"
 		},
 		"0x2387D6E9C6B478AA": {
