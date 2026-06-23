@@ -8556,7 +8556,7 @@
 			"name": "_0x450769C833D58844",
 			"comment": "",
 			"params": [],
-			"return_type": "Any",
+			"return_type": "BOOL",
 			"build": "1207"
 		},
 		"0xD7F4D54CF80AFA34": {
