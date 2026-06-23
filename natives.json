@@ -91836,7 +91836,7 @@
 			"name": "_0x99F92061EFE908BA",
 			"comment": "",
 			"params": [],
-			"return_type": "Any",
+			"return_type": "BOOL",
 			"build": "1207"
 		},
 		"0x05DD384F39DE1C8C": {
