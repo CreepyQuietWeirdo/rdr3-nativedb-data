@@ -75040,7 +75040,7 @@
 					"name": "p3"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "int",
 			"build": "1207"
 		},
 		"0x63342C50EC115CE8": {
