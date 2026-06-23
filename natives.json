@@ -4903,7 +4903,7 @@
 					"name": "p6"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "BOOL",
 			"build": "1207"
 		},
 		"0x5E3CCF03995388B5": {
