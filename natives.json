@@ -5626,7 +5626,7 @@
 			"name": "_0xE600F61F54A444A6",
 			"comment": "",
 			"params": [],
-			"return_type": "Any",
+			"return_type": "BOOL",
 			"build": "1207"
 		},
 		"0x845FFC3A4FEEFA3E": {
