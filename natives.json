@@ -10298,7 +10298,7 @@
 					"name": "duration"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "int",
 			"build": "1207"
 		},
 		"0xBC016635D6A73B31": {
